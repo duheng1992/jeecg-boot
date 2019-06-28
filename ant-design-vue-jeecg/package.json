@@ -1,6 +1,6 @@
 {
   "name": "ant-design-vue-jeecg",
-   "version": "2.0.2",
+  "version": "2.0.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
